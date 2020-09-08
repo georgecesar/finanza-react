@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b16bec0d03e12cf900ef5c00d5bd073d",
+    "revision": "1c3bd03122346d0dfb790d1996ccbcc7",
     "url": "/finanza-react/index.html"
   },
   {
-    "revision": "f8ab311ea773afe08113",
-    "url": "/finanza-react/static/css/main.867cf627.chunk.css"
+    "revision": "50d38dff671cd2b2b1dc",
+    "url": "/finanza-react/static/css/main.514318c8.chunk.css"
   },
   {
     "revision": "fd403dfcf32d045bbc32",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/finanza-react/static/js/2.f551d40a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8ab311ea773afe08113",
-    "url": "/finanza-react/static/js/main.fecb95ec.chunk.js"
+    "revision": "50d38dff671cd2b2b1dc",
+    "url": "/finanza-react/static/js/main.15a7c289.chunk.js"
   },
   {
     "revision": "7da7a42025a8a49f81db",

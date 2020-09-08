@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/finanza-react/static/css/main.867cf627.chunk.css",
-    "main.js": "/finanza-react/static/js/main.fecb95ec.chunk.js",
-    "main.js.map": "/finanza-react/static/js/main.fecb95ec.chunk.js.map",
+    "main.css": "/finanza-react/static/css/main.514318c8.chunk.css",
+    "main.js": "/finanza-react/static/js/main.15a7c289.chunk.js",
+    "main.js.map": "/finanza-react/static/js/main.15a7c289.chunk.js.map",
     "runtime-main.js": "/finanza-react/static/js/runtime-main.909e7a13.js",
     "runtime-main.js.map": "/finanza-react/static/js/runtime-main.909e7a13.js.map",
     "static/js/2.f551d40a.chunk.js": "/finanza-react/static/js/2.f551d40a.chunk.js",
     "static/js/2.f551d40a.chunk.js.map": "/finanza-react/static/js/2.f551d40a.chunk.js.map",
     "index.html": "/finanza-react/index.html",
-    "precache-manifest.915c035d2d925a4570274aef8a4b4453.js": "/finanza-react/precache-manifest.915c035d2d925a4570274aef8a4b4453.js",
+    "precache-manifest.720bdb246aac8892f07af96b42ff79d4.js": "/finanza-react/precache-manifest.720bdb246aac8892f07af96b42ff79d4.js",
     "service-worker.js": "/finanza-react/service-worker.js",
-    "static/css/main.867cf627.chunk.css.map": "/finanza-react/static/css/main.867cf627.chunk.css.map",
+    "static/css/main.514318c8.chunk.css.map": "/finanza-react/static/css/main.514318c8.chunk.css.map",
     "static/js/2.f551d40a.chunk.js.LICENSE.txt": "/finanza-react/static/js/2.f551d40a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.909e7a13.js",
     "static/js/2.f551d40a.chunk.js",
-    "static/css/main.867cf627.chunk.css",
-    "static/js/main.fecb95ec.chunk.js"
+    "static/css/main.514318c8.chunk.css",
+    "static/js/main.15a7c289.chunk.js"
   ]
 }
